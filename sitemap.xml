@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://alexespinosaco.github.io/test-book/index.html</loc>
+    <lastmod>2024-06-27T05:53:57.661Z</lastmod>
+  </url>
+  <url>
+    <loc>https://alexespinosaco.github.io/test-book/intro.html</loc>
+    <lastmod>2024-06-27T06:05:59.737Z</lastmod>
+  </url>
+  <url>
+    <loc>https://alexespinosaco.github.io/test-book/summary.html</loc>
+    <lastmod>2024-06-27T05:42:40.680Z</lastmod>
+  </url>
+  <url>
+    <loc>https://alexespinosaco.github.io/test-book/references.html</loc>
+    <lastmod>2024-06-27T05:42:25.448Z</lastmod>
+  </url>
+  <url>
+    <loc>https://alexespinosaco.github.io/test-book/Quarto-Test-Book.pdf</loc>
+    <lastmod>2024-06-27T06:12:00.789Z</lastmod>
+  </url>
+</urlset>

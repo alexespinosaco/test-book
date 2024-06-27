@@ -2,22 +2,61 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "quarto-book",
+    "title": "Quarto Test Book",
     "section": "",
-    "text": "Preface\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    "text": "Prefacio\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nulla neque, viverra a sollicitudin sed, rhoncus a sapien. Nam a enim et libero commodo placerat non et nulla. Duis accumsan ipsum justo, at laoreet ante pharetra mollis. Pellentesque luctus est a eros dapibus tincidunt. Donec quis purus commodo ipsum molestie facilisis. Mauris maximus, dui vitae porttitor efficitur, ligula eros imperdiet erat, non ullamcorper erat enim a urna. Duis eget augue nec erat pharetra aliquam sit amet tincidunt velit. Fusce non tortor nisi.\nIn placerat euismod mollis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus ullamcorper vel velit non sodales. Nulla ac metus sem. In hac habitasse platea dictumst. Pellentesque ac aliquet felis. Maecenas eros lacus, vehicula ac feugiat id, hendrerit ac leo. Fusce quis ullamcorper tortor.\nMaecenas egestas sollicitudin consectetur. Mauris convallis, urna ac gravida ultrices, massa mi porttitor ante, eu porttitor tellus neque vel nisi. Sed quis dictum dolor. Aenean facilisis nec massa sit amet bibendum. Phasellus eu lorem vitae justo commodo efficitur eu vitae magna. Vivamus porta tellus in massa volutpat porta. In eu sapien ultrices ex placerat euismod. Integer elementum ligula magna. Aenean faucibus a dui eu dapibus. Proin posuere pharetra lectus nec congue. Fusce egestas sed sem nec fermentum. Sed iaculis turpis nibh, quis pretium augue molestie eu. Aenean est magna, consectetur lacinia condimentum in, aliquet non risus. Nam sit amet libero sit amet dolor sodales lacinia id vitae ligula.\nPraesent sed urna rhoncus, tincidunt nibh vel, tempor orci. Suspendisse vitae justo eget ante bibendum vulputate vitae et diam. Suspendisse sit amet urna ex. Nullam quis condimentum enim, aliquet ornare massa. Maecenas sit amet viverra sapien. Nullam mollis nunc eu erat commodo consectetur sit amet sed ex. Suspendisse vitae pellentesque augue. Proin convallis erat at purus rhoncus, gravida accumsan magna finibus. Nunc sed convallis est. Etiam vel mattis eros. Fusce interdum mattis dui vitae cursus. Maecenas sed lorem tristique lacus ultrices venenatis et bibendum lacus. Aenean ullamcorper finibus egestas.\nAliquam bibendum turpis neque, et tristique dolor posuere in. Quisque vitae condimentum ipsum. Vivamus turpis est, efficitur sed lacus eu, malesuada condimentum leo. Nulla laoreet, elit et aliquam lobortis, elit felis blandit erat, sed lobortis enim sem vel dui. Etiam mollis metus sem, vel malesuada risus tempus quis. Phasellus at suscipit nisi. Donec non lectus dictum, iaculis neque vitae, viverra velit. Donec ornare justo sed arcu hendrerit, eget condimentum orci vehicula. Praesent eget porta enim.",
+    "crumbs": [
+      "Prefacio"
+    ]
+  },
+  {
+    "objectID": "index.html#citación",
+    "href": "index.html#citación",
+    "title": "Quarto Test Book",
+    "section": "Citación",
+    "text": "Citación\nPor favor, cita este trabajo como:\n\nEspinosa-Correa, Á. (2024). Quarto test book. https://alexespinosaco.github.io/test-book/\n\nBibTeX\n@book{espinosa-correa2024,\n  author = {Espinosa-Correa, Álex},\n  title = {Quarto test book},\n  year = {2024},\n  date = {2024},\n  url = {https://alexespinosaco.github.io/test-book/},\n  address = {Medellín},\n  language = {es}\n}",
+    "crumbs": [
+      "Prefacio"
+    ]
+  },
+  {
+    "objectID": "index.html#licencia",
+    "href": "index.html#licencia",
+    "title": "Quarto Test Book",
+    "section": "Licencia",
+    "text": "Licencia\n\nThis work by Álex Espinosa-Correa is licensed under Creative Commons Attribution 4.0 International",
+    "crumbs": [
+      "Prefacio"
+    ]
   },
   {
     "objectID": "intro.html",
     "href": "intro.html",
-    "title": "1  Introduction",
+    "title": "1  Introducción",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nulla neque, viverra a sollicitudin sed, rhoncus a sapien. Nam a enim et libero commodo placerat non et nulla. Duis accumsan ipsum justo, at laoreet ante pharetra mollis. Pellentesque luctus est a eros dapibus tincidunt. Donec quis purus commodo ipsum molestie facilisis. Mauris maximus, dui vitae porttitor efficitur, ligula eros imperdiet erat, non ullamcorper erat enim a urna. Duis eget augue nec erat pharetra aliquam sit amet tincidunt velit. Fusce non tortor nisi (Wickham et al., 2023).\nIn placerat euismod mollis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus ullamcorper vel velit non sodales. Nulla ac metus sem. In hac habitasse platea dictumst. Pellentesque ac aliquet felis. Maecenas eros lacus, vehicula ac feugiat id, hendrerit ac leo. Fusce quis ullamcorper tortor.\nMaecenas egestas sollicitudin consectetur. Mauris convallis, urna ac gravida ultrices, massa mi porttitor ante, eu porttitor tellus neque vel nisi. Sed quis dictum dolor. Aenean facilisis nec massa sit amet bibendum. Phasellus eu lorem vitae justo commodo efficitur eu vitae magna. Vivamus porta tellus in massa volutpat porta. In eu sapien ultrices ex placerat euismod. Integer elementum ligula magna. Aenean faucibus a dui eu dapibus. Proin posuere pharetra lectus nec congue. Fusce egestas sed sem nec fermentum. Sed iaculis turpis nibh, quis pretium augue molestie eu. Aenean est magna, consectetur lacinia condimentum in, aliquet non risus. Nam sit amet libero sit amet dolor sodales lacinia id vitae ligula.\nPraesent sed urna rhoncus, tincidunt nibh vel, tempor orci. Suspendisse vitae justo eget ante bibendum vulputate vitae et diam. Suspendisse sit amet urna ex. Nullam quis condimentum enim, aliquet ornare massa. Maecenas sit amet viverra sapien. Nullam mollis nunc eu erat commodo consectetur sit amet sed ex. Suspendisse vitae pellentesque augue. Proin convallis erat at purus rhoncus, gravida accumsan magna finibus. Nunc sed convallis est. Etiam vel mattis eros. Fusce interdum mattis dui vitae cursus. Maecenas sed lorem tristique lacus ultrices venenatis et bibendum lacus. Aenean ullamcorper finibus egestas.\nAliquam bibendum turpis neque, et tristique dolor posuere in. Quisque vitae condimentum ipsum. Vivamus turpis est, efficitur sed lacus eu, malesuada condimentum leo. Nulla laoreet, elit et aliquam lobortis, elit felis blandit erat, sed lobortis enim sem vel dui. Etiam mollis metus sem, vel malesuada risus tempus quis. Phasellus at suscipit nisi. Donec non lectus dictum, iaculis neque vitae, viverra velit. Donec ornare justo sed arcu hendrerit, eget condimentum orci vehicula. Praesent eget porta enim.\n\n\n\n\nWickham, H., Çetinkaya-Rundel, M., & Grolemund, G. (2023). R for data science: import, tidy, transform, visualize, and model data (2.ª ed.). O’Reilly. https://r4ds.hadley.nz",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introducción</span>"
+    ]
   },
   {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "2  Summary",
+    "title": "2  Resumen",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nulla neque, viverra a sollicitudin sed, rhoncus a sapien. Nam a enim et libero commodo placerat non et nulla. Duis accumsan ipsum justo, at laoreet ante pharetra mollis. Pellentesque luctus est a eros dapibus tincidunt. Donec quis purus commodo ipsum molestie facilisis. Mauris maximus, dui vitae porttitor efficitur, ligula eros imperdiet erat, non ullamcorper erat enim a urna. Duis eget augue nec erat pharetra aliquam sit amet tincidunt velit. Fusce non tortor nisi.\nIn placerat euismod mollis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus ullamcorper vel velit non sodales. Nulla ac metus sem. In hac habitasse platea dictumst. Pellentesque ac aliquet felis. Maecenas eros lacus, vehicula ac feugiat id, hendrerit ac leo. Fusce quis ullamcorper tortor.\nMaecenas egestas sollicitudin consectetur. Mauris convallis, urna ac gravida ultrices, massa mi porttitor ante, eu porttitor tellus neque vel nisi. Sed quis dictum dolor. Aenean facilisis nec massa sit amet bibendum. Phasellus eu lorem vitae justo commodo efficitur eu vitae magna. Vivamus porta tellus in massa volutpat porta. In eu sapien ultrices ex placerat euismod. Integer elementum ligula magna. Aenean faucibus a dui eu dapibus. Proin posuere pharetra lectus nec congue. Fusce egestas sed sem nec fermentum. Sed iaculis turpis nibh, quis pretium augue molestie eu. Aenean est magna, consectetur lacinia condimentum in, aliquet non risus. Nam sit amet libero sit amet dolor sodales lacinia id vitae ligula.\nPraesent sed urna rhoncus, tincidunt nibh vel, tempor orci. Suspendisse vitae justo eget ante bibendum vulputate vitae et diam. Suspendisse sit amet urna ex. Nullam quis condimentum enim, aliquet ornare massa. Maecenas sit amet viverra sapien. Nullam mollis nunc eu erat commodo consectetur sit amet sed ex. Suspendisse vitae pellentesque augue. Proin convallis erat at purus rhoncus, gravida accumsan magna finibus. Nunc sed convallis est. Etiam vel mattis eros. Fusce interdum mattis dui vitae cursus. Maecenas sed lorem tristique lacus ultrices venenatis et bibendum lacus. Aenean ullamcorper finibus egestas.\nAliquam bibendum turpis neque, et tristique dolor posuere in. Quisque vitae condimentum ipsum. Vivamus turpis est, efficitur sed lacus eu, malesuada condimentum leo. Nulla laoreet, elit et aliquam lobortis, elit felis blandit erat, sed lobortis enim sem vel dui. Etiam mollis metus sem, vel malesuada risus tempus quis. Phasellus at suscipit nisi. Donec non lectus dictum, iaculis neque vitae, viverra velit. Donec ornare justo sed arcu hendrerit, eget condimentum orci vehicula. Praesent eget porta enim.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Resumen</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "Referencias",
+    "section": "",
+    "text": "Wickham, H., Çetinkaya-Rundel, M., & Grolemund, G. (2023). R for\ndata science: import, tidy, transform, visualize, and model data\n(2nd ed.). O’Reilly. https://r4ds.hadley.nz",
+    "crumbs": [
+      "Referencias"
+    ]
   }
 ]
