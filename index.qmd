@@ -1,9 +1,35 @@
-# Preface {.unnumbered}
+# Prefacio {.unnumbered}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nulla neque, viverra a sollicitudin sed, rhoncus a sapien. Nam a enim et libero commodo placerat non et nulla. Duis accumsan ipsum justo, at laoreet ante pharetra mollis. Pellentesque luctus est a eros dapibus tincidunt. Donec quis purus commodo ipsum molestie facilisis. Mauris maximus, dui vitae porttitor efficitur, ligula eros imperdiet erat, non ullamcorper erat enim a urna. Duis eget augue nec erat pharetra aliquam sit amet tincidunt velit. Fusce non tortor nisi.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In placerat euismod mollis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus ullamcorper vel velit non sodales. Nulla ac metus sem. In hac habitasse platea dictumst. Pellentesque ac aliquet felis. Maecenas eros lacus, vehicula ac feugiat id, hendrerit ac leo. Fusce quis ullamcorper tortor.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Maecenas egestas sollicitudin consectetur. Mauris convallis, urna ac gravida ultrices, massa mi porttitor ante, eu porttitor tellus neque vel nisi. Sed quis dictum dolor. Aenean facilisis nec massa sit amet bibendum. Phasellus eu lorem vitae justo commodo efficitur eu vitae magna. Vivamus porta tellus in massa volutpat porta. In eu sapien ultrices ex placerat euismod. Integer elementum ligula magna. Aenean faucibus a dui eu dapibus. Proin posuere pharetra lectus nec congue. Fusce egestas sed sem nec fermentum. Sed iaculis turpis nibh, quis pretium augue molestie eu. Aenean est magna, consectetur lacinia condimentum in, aliquet non risus. Nam sit amet libero sit amet dolor sodales lacinia id vitae ligula.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Praesent sed urna rhoncus, tincidunt nibh vel, tempor orci. Suspendisse vitae justo eget ante bibendum vulputate vitae et diam. Suspendisse sit amet urna ex. Nullam quis condimentum enim, aliquet ornare massa. Maecenas sit amet viverra sapien. Nullam mollis nunc eu erat commodo consectetur sit amet sed ex. Suspendisse vitae pellentesque augue. Proin convallis erat at purus rhoncus, gravida accumsan magna finibus. Nunc sed convallis est. Etiam vel mattis eros. Fusce interdum mattis dui vitae cursus. Maecenas sed lorem tristique lacus ultrices venenatis et bibendum lacus. Aenean ullamcorper finibus egestas.
+
+Aliquam bibendum turpis neque, et tristique dolor posuere in. Quisque vitae condimentum ipsum. Vivamus turpis est, efficitur sed lacus eu, malesuada condimentum leo. Nulla laoreet, elit et aliquam lobortis, elit felis blandit erat, sed lobortis enim sem vel dui. Etiam mollis metus sem, vel malesuada risus tempus quis. Phasellus at suscipit nisi. Donec non lectus dictum, iaculis neque vitae, viverra velit. Donec ornare justo sed arcu hendrerit, eget condimentum orci vehicula. Praesent eget porta enim.
+
+## Citación {.unnumbered}
+
+Por favor, cita este trabajo como:
+
+> Espinosa-Correa, Á. (2024). *Quarto test book*. [https://alexespinosaco.github.io/test-book/](https://alexespinosaco.github.io/test-book/)
+
+**BibTeX**
+
+``` default
+@book{espinosa-correa2024,
+  author = {Espinosa-Correa, Álex},
+  title = {Quarto test book},
+  year = {2024},
+  date = {2024},
+  url = {https://alexespinosaco.github.io/test-book/},
+  address = {Medellín},
+  language = {es}
+}
+```
+
+## Licencia {.unnumbered}
+
+<p xmlns:cc="http://creativecommons.org/ns#" >This work by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://alexespinosaco.github.io">Álex Espinosa-Correa</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>

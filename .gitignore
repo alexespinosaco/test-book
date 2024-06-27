@@ -1,7 +1,9 @@
-/.quarto/
-/_book/
 .Rproj.user
 .Rhistory
 .Rdata
 .httr-oauth
 .DS_Store
+
+/.quarto/
+/_book/
+/_site/

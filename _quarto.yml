@@ -2,9 +2,35 @@ project:
   type: book
 
 book:
-  title: "quarto-book"
-  author: "Jane Doe"
-  date: "2/1/2023"
+  title: "Quarto Test Book"
+  author: 
+    - name: "Álex Espinosa-Correa"
+      orcid: 0000-0002-7353-1182
+      email: alex.espinosa@udea.edu.co
+      url: https://alexespinosaco.github.io
+      affiliation: Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA, Calle 70 No. 52-21, Medellín, Colombia.
+      affiliation-url: https://geobota.github.io
+
+  date: "2024-05-25"
+  date-format: iso
+
+  page-navigation: true
+  reader-mode: true
+  search: true
+  site-url: https://alexespinosaco.github.io/test-book/
+  repo-url: https://github.com/alexespinosaco/test-book/
+  repo-actions: [edit, issue, source]
+  downloads: [pdf]
+  sharing: [twitter, facebook]
+
+  twitter-card: true
+  open-graph: true
+
+  favicon: cover.png
+  cover-image: cover.png
+  cover-image-alt: |
+    Alternative text describing the book cover 
+
   chapters:
     - index.qmd
     - intro.qmd
@@ -12,10 +38,17 @@ book:
     - references.qmd
 
 bibliography: references.bib
+csl: apa.csl
+
+
+
+lang: es
 
 format:
   html:
     theme: cosmo
+    toc: true
+    toc-depth: 3
   pdf:
     documentclass: scrreprt
 
